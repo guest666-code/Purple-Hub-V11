@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-violet?style=for-the-badge)
 
-**Purple Hub V11**, Roblox mobil (Tablet/Telefon) ve PC platformları için özel olarak geliştirilmiş, yüksek performanslı ve Anti-Crash korumalı bir hile arayüzüdür.
+**Purple Hub V11**, Roblox mobil (Tablet/Telefon) ve PC platformları için özel olarak geliştirilmiş, yüksek performanslı ve Anti-Crash korumalı bir arayüzdür.
 
 </div>
 
@@ -17,10 +17,10 @@
 
 - 📱 **Tablet & Mobil Uyumlu:** Sürükle-bırak (Draggable) desteği ve dokunmatik ekranlar için optimize edilmiş geniş butonlar.
 - ⚡ **Anti-Crash & Safe-Loop:** İşlemciyi yormayan ve oyunun donmasını engelleyen özel senkronizasyon mimarisi.
-- 🎨 **Modern Animasyonlar:** Smooth açılış/kapanış efektleri ve hover görselleri.
-- 🎵 **Ses Efektleri:** Her etkileşimde özel tıklama sesleri.
-- 🔒 **Güvenli Kapatma:** `X` butonuna basıldığında çalışan tüm modülleri anında durdurur ve belleği temizler.
-
+- 🎨 **Modern Animasyonlar:** Smooth açılış/kapanış pop-up efektleri ve buton hover görselleri.
+- 🎵 **Ses Efektleri:** Her buton etkileşiminde özel tıklama sesleri.
+- 🔒 **Güvenli Kapatma:** `X` butonuna basıldığında çalışan tüm özellikleri anında durdurur ve belleği temizler.
+- ➖ **Küçültme Modu:** Tek tıkla menüyü simge durumuna küçültme imkanı.
 ---
 
 ## 🚀 Hızlı Kullanım (Quick Load)
